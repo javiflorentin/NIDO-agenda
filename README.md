@@ -19,4 +19,4 @@ logo_nido.png
 logo_unpilar.png     
 requirements.txt     
 
-Para la instalacion de este programa se debe clonar el repositorio: "gh repo clone javiflorentin/NIDO-agenda "con git clone en una carpeta nueva, una vez realizado esto, se puede ejecutar el programa. 
+Para la instalacion de este programa se debe clonar el repositorio: " https://github.com/javiflorentin/NIDO-agenda.git "con git clone en una carpeta nueva, una vez realizado esto, se puede ejecutar el programa. 
